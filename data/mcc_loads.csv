@@ -1,0 +1,9 @@
+tag,description,type,rated_kw,qty_installed,qty_running,efficiency,power_factor,load_factor
+P-101,Cooling water pump,motor,90,3,2,0.950,0.87,0.85
+F-201,Cooling tower fan,motor,37,4,4,0.930,0.84,0.90
+K-301,Instrument air compressor,motor,75,2,1,0.945,0.86,0.90
+P-401,Process transfer pump,motor,30,4,3,0.925,0.83,0.80
+M-501,Reactor agitator,motor,15,4,4,0.910,0.80,0.75
+AHU-601,HVAC air handling unit,motor,22,2,2,0.920,0.82,0.80
+L-701,Lighting and small power (LED),static,40,1,1,1.000,0.90,0.70
+W-801,Maintenance welding sockets,static,25,1,1,1.000,0.70,0.30
